@@ -18,8 +18,7 @@ Imagine that you are Wang, a marketing employee at SPARK, an international hotel
 You work in the marketing department and are supervised by Manager Li. Manager Li is unwilling to listen to your new ideas or solutions in daily work and ignores opportunities to improve work processes. He generally refuses to discuss the organizational vision and its implementation with you. You cannot always consult him when facing work problems, as he is often absent from the team. He is unavailable when you attempt to seek professional guidance. In general, Manager Li declines to listen patiently to your thoughts and suggestions, does not encourage you to discuss work-related problems, and is unreachable for collaborative discussions on new solutions and challenges.
 
 Algorithmic Management：
-Variable	Item
-Algorithmic Management	1. An algorithmic management system closely tracks me to ensure that I am completing my tasks.
+    1. An algorithmic management system closely tracks me to ensure that I am completing my tasks.
 	2. An algorithmic management system closely monitors me while I am working.
 	3. Algorithmic management conducts a careful check of my work.
 	4. I am constantly monitored by an algorithmic management system to ensure my compliance with work-related rules.
@@ -41,8 +40,7 @@ Algorithmic Management	1. An algorithmic management system closely tracks me to 
 	20. The compensation I receive is solely the result of calculations by an algorithmic management system.
 
 Inclusive Leadership：
-Variable	Item
-Inclusive Leadership	1. My leader is open to hearing my new ideas.
+    1. My leader is open to hearing my new ideas.
 	2. My leader pays attention to new opportunities for improving work processes.
 	3. My leader is willing to discuss desired goals and new methods to achieve them.
 	4. My leader can provide advice on my problems.
@@ -53,8 +51,8 @@ Inclusive Leadership	1. My leader is open to hearing my new ideas.
 	9. My leader has enough time to discuss emerging issues with me when necessary.
 
 Self-objectification：
-Variable	Self-objectification – self-instrumentality：
-Self-objectification	1.In my work, being useful to the company or algorithms is more important than feeling satisfied within myself.
+Self-objectification – self-instrumentality：
+    1.In my work, being useful to the company or algorithms is more important than feeling satisfied within myself.
 	2. How I help the algorithms in the company to function properly is more important than my own thoughts or feelings.
 	3. Whether or not I am useful to the company makes me valuable to the company.
 	4.  It is easy for someone with the same qualities and skills as me to replace me.
@@ -74,14 +72,12 @@ Self-objectification	1.In my work, being useful to the company or algorithms is 
 	8.that I am immature in my behavior and ideas at work.
 
 Exploratory Learning：
-Variable	Item
-Exploratory Learning	1. I strive to acquire new knowledge to develop hotel products or marketing plans that can lead me into entirely new learning areas (e.g., AI content generation, metaverse marketing).
+    1. I strive to acquire new knowledge to develop hotel products or marketing plans that can lead me into entirely new learning areas (e.g., AI content generation, metaverse marketing).
 	2. I collect novel market information and creative ideas that go beyond my current hotel marketing work and experience.
 	3. I plan to gather new information that can drive me to learn new skills and trends in the field of smart hotel services.
 
 Exploitative Learning：
-Variable	Item
-Exploitative Learning	1. When faced with new service or marketing problems, I prioritize finding universal and proven methods and solutions within the hotel industry.
+    1. When faced with new service or marketing problems, I prioritize finding universal and proven methods and solutions within the hotel industry.
 	2. I apply information acquisition methods to help us understand and optimize the existing customer experience and marketing activities.
 	3. I focus on utilizing automation tools and algorithm knowledge related to my existing hotel marketing experience (e.g., existing customer relationship management systems, booking engine algorithms).
 
@@ -95,24 +91,21 @@ Self-objectification：
 Same as the scale in Study 1.
 
 Exploratory Learning：
-Variable	Item
-Exploratory Learning	1. I have developed new capabilities for myself.
+    1. I have developed new capabilities for myself.
 	2. I have started to undertake new tasks that I was not familiar with before.
 	3. I have acquired new knowledge.
 	4. I have expanded my knowledge in entirely new fields for me.
 	5. I have learned to perform completely new tasks.
 
 Exploitative Learning：
-Variable	Item
-Exploitative Learning	1. Make good use of my existing capabilities.
+    1. Make good use of my existing capabilities.
 	2. Do a good job in my daily work.
 	3. Use the knowledge I currently have at work.
 	4. Consolidate my skills and knowledge in areas that support my existing work capabilities.
 	5. Learn to better complete existing work tasks.
 
 Hotel Employees' Creativity：
-Variable	Item
-Hotel Employees' Creativity	1. I interact with customers in a creative way.
+	1. I interact with customers in a creative way.
 	2. I can provide services to customers in a flexible manner.
 	3. I can put forward novel and practical ideas to meet customer needs.
 	4. For new customer problems, I can propose multiple solutions and evaluate them.
